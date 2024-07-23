@@ -1,1 +1,1 @@
-# S-P-500-Volatility-Models
+# S&P 500 Volatility-Models
